@@ -1,4 +1,4 @@
-# cfDNAtools - set of scripts for cfDNA processing
+# cfDNAtools - scripts for cfDNA processing
 
 **extract_nuc_sizes.pl** - takes as input NucTools-compatible BED file format with an additional column that contains fragment size, and extracts to a new BED file only fragments within a set range of sizes. Example command: 
 
