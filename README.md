@@ -1,4 +1,4 @@
-# cfDNAtools - scripts for cfDNA processing
+# cfDNAtools - scripts for analysis of cfDNA, nucleosome positioining and related aspects
 
 **extract_nuc_sizes.pl** - takes as input [NucTools](https://homeveg.github.io/nuctools/)-compatible BED file with paired-end reads which contains a column with fragment sizes, and extracts to a new BED file the fragments within a set range of sizes. Example command: 
 
