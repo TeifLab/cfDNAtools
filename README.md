@@ -1,5 +1,5 @@
 # cfDNAtools 
-Nucleosomics-focused scripts for analysis of cfDNA, nucleosome positioining _in vivo_ and related aspects. This repository currently hosts few minimally-annotated scripts associated with our current manuscripts and will be upgraded later with a more detailed description and wider variety of nucleosomics-related scripts.
+Nucleosomics-focused scripts for analysis of cfDNA, nucleosome positioining _in vivo_ and related aspects. This repository hosts scripts associated with our current manuscripts on nucleosome repositioning in cancer.
 
 **extract_nuc_sizes.pl** - takes as input a [NucTools](https://homeveg.github.io/nuctools/)-compatible BED file with paired-end reads which contains a column with DNA fragment sizes, and extracts to a new BED file only the fragments within a set range of sizes. Example command: 
 
