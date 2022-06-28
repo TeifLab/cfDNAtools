@@ -9,5 +9,8 @@ Nucleosomics-focused scripts for analysis of cfDNA, nucleosome positioining _in 
 
 ```perl methylationThresholds.pl -input=<in.bed> -output=<out.bed> -threshold1=<minimum_methylation> -threshold2=<maximum_methylation>```
 
-**bed2occupancy.v3d.methyl.pl** - takes as input a [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)-compatible BED file with DNA methylation beta-values as a separate column, and outputs a [NucTools](https://homeveg.github.io/nuctools/)-compatible "occupancy" file with normalised DNA methylation score per each nucleotide. 
+**bed2occupancy.v3d.methyl.pl** - takes as input a [Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)-compatible BED file with DNA methylation beta-values as a separate column, and outputs a [NucTools](https://homeveg.github.io/nuctools/)-compatible "occupancy" file with normalised DNA methylation score per each nucleotide. Example command: 
+
+```perl bed2occupancy.v3d.methyl.pl <chr1.bed> <chr1.occ>```
+
 
