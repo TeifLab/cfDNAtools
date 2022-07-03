@@ -13,6 +13,6 @@ Nucleosomics-focused scripts for analysis of cfDNA, nucleosome positioining _in 
 
 ```perl bed2occupancy.v3d.methyl.pl <chr1.bed> <chr1.occ>```
 
-**fragment_length_histogram.r** - Takes as input a [NucTools](https://homeveg.github.io/nuctools/)-compatible BED file with paired-end reads which contains a column with DNA fragment sizes, and outputs the distribution of fragment lengths in the form of a histogram. Example command: 
+**fragment_length_histogram.r** - takes as input a [NucTools](https://homeveg.github.io/nuctools/)-compatible BED file with paired-end reads which contains a column with DNA fragment sizes, and outputs the distribution of fragment lengths in the form of a histogram. Example command: 
 
 ```Rscript fragment_length_histogram.r <input_bed_file.bed> <output_file.txt>```
