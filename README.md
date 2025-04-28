@@ -1,6 +1,8 @@
 # cfDNAtools 
 Nucleosomics-focused scripts for analysis of cfDNA, nucleosome positioining _in vivo_ and related aspects. This repository hosts few scripts associated with our current manuscripts on nucleosome repositioning in cancer.
 
+-----------------------------------------------------------
+
 **License**
 This software belongs to the Laboratory of Gene Regulation at the University of Essex (generegulation.org) and is availabe to external users under CC-BY-NC-ND licence (non-commercial use only, no derivateves, full attribution required, including the name of the package, cfDNAtools). Please provide references to this repository and to the following publications:
 
