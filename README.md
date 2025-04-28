@@ -4,7 +4,7 @@ Nucleosomics-focused scripts for analysis of cfDNA, nucleosome positioining _in 
 -----------------------------------------------------------
 
 **License**<br>
-This software belongs to the Laboratory of Gene Regulation at the University of Essex [generegulation.org](generegulation.org) and is availabe to external users under CC-BY-NC-ND licence (non-commercial use only, no derivateves, full attribution required, including the name of the package, cfDNAtools). Please provide references to this repository and to the following publications:
+This software belongs to the Laboratory of Gene Regulation at the University of Essex ([generegulation.org](generegulation.org)) and is availabe to external users under CC-BY-NC-ND licence (non-commercial use only, no derivateves, full attribution required, including the name of the package, cfDNAtools). Please provide references to this repository and to the following publications:
 
 Piroeva K. V., McDonald C., Xanthopoulos C., Fox C., Clarkson C. T., Mallm J.-P., Vainshtein Y., Ruje L., Klett L. C., Stilgenbauer S., Mertens D., Kostareli E., Rippe K. and Teif V. B. (2023) Nucleosome repositioning in chronic lymphocytic leukaemia. Genome Research 33, 1649-1661.
 
